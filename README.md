@@ -1,3 +1,3 @@
-# Factory_GTW-_StylegGAN2
+# Factory_GTW_StylegGAN2
 
 Get GT W+ of real image.
